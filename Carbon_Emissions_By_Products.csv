@@ -1,0 +1,551 @@
+ID,Product,Category,Unit,Carbon_Emission_kgCO2e,Energy_Used_MJ,Water_Used_L,Region
+1,Packaged Chips,Food,km,7.06,39.65,67.59,North America
+2,Electric Fan,Electronics,pack,12.03,48.36,90.68,North America
+3,Steel Straw,Reusable,km,66.09,21.98,197.56,Australia
+4,Flight (Domestic),Transport,kg,9.16,25.61,33.53,North America
+5,Bike Ride,Transport,liter,79.64,24.33,77.32,Asia
+6,Aluminum Can,Packaging,piece,55.69,19.59,100.57,North America
+7,Packaged Biscuits,Food,liter,45.87,17.3,125.96,Asia
+8,Bus Ride,Transport,pack,36.96,42.69,58.36,Africa
+9,Bus Ride,Transport,piece,35.67,28.12,104.82,Europe
+10,Packaged Chips,Food,km,45.53,14.15,151.38,Australia
+11,Packaged Biscuits,Food,liter,26.17,47.43,171.35,North America
+12,Laptop,Electronics,piece,74.42,32.87,3.74,Australia
+13,Flight (International),Transport,pack,82.56,14.05,23.17,Europe
+14,LED Bulb,Electronics,liter,47.01,19.47,169.54,Asia
+15,Electric Fan,Electronics,pack,76.53,17.45,108.0,Asia
+16,Electric Fan,Electronics,piece,62.36,7.1,156.04,Australia
+17,Steel Straw,Reusable,pack,3.67,34.93,138.92,North America
+18,Meat (1kg),Food,km,55.14,4.31,29.37,South America
+19,Glass Bottle,Packaging,km,47.04,22.26,1.38,Asia
+20,Packaged Juice,Food,pack,69.98,36.63,84.82,Australia
+21,Packaged Biscuits,Food,pack,74.71,45.24,93.26,Asia
+22,Meat (1kg),Food,km,10.24,12.88,124.84,North America
+23,Polyester Bag,Reusable,liter,84.03,45.97,172.74,Europe
+24,Steel Straw,Reusable,kg,62.05,47.09,43.23,Australia
+25,Bike Ride,Transport,kg,99.74,38.59,159.82,Africa
+26,Shoes,Clothing,piece,23.89,31.54,198.31,Europe
+27,Milk (1L),Food,piece,74.1,8.37,108.19,Africa
+28,Polyester Bag,Reusable,pack,21.31,37.34,194.52,North America
+29,Flight (Domestic),Transport,pack,53.47,20.24,119.55,Europe
+30,Jeans,Clothing,km,76.22,14.99,93.23,Asia
+31,Steel Straw,Reusable,piece,52.0,12.2,25.76,Asia
+32,Aluminum Can,Packaging,piece,75.92,33.14,10.86,Europe
+33,T-shirt (Cotton),Clothing,piece,65.59,44.39,92.01,Asia
+34,Bike Ride,Transport,piece,65.89,10.88,136.38,Australia
+35,Packaged Biscuits,Food,km,47.64,28.08,84.13,Africa
+36,Bus Ride,Transport,pack,50.8,1.64,190.62,North America
+37,Polyester Bag,Reusable,piece,41.75,14.73,11.07,Europe
+38,Milk (1L),Food,km,80.81,5.0,115.22,North America
+39,Flight (International),Transport,kg,13.15,0.25,126.26,North America
+40,Packaged Juice,Food,pack,41.1,8.36,101.61,Europe
+41,Meat (1kg),Food,liter,56.36,41.54,62.53,Asia
+42,T-shirt (Cotton),Clothing,liter,78.73,7.87,62.15,Australia
+43,Flight (Domestic),Transport,km,47.26,4.75,160.76,Europe
+44,Aluminum Can,Packaging,piece,56.3,28.71,128.93,Africa
+45,Smartphone,Electronics,liter,83.68,6.66,95.01,Europe
+46,Packaged Chips,Food,kg,40.66,3.35,43.25,Asia
+47,Laptop,Electronics,km,5.34,41.9,7.52,Australia
+48,Bike Ride,Transport,liter,62.72,35.25,136.05,Europe
+49,Jeans,Clothing,piece,77.46,28.04,101.83,South America
+50,Bike Ride,Transport,pack,76.19,11.7,196.38,North America
+51,LED Bulb,Electronics,piece,14.66,16.22,165.35,South America
+52,Glass Bottle,Packaging,km,72.93,39.12,4.05,North America
+53,Paper Cup,Packaging,pack,82.28,32.0,80.2,Europe
+54,Milk (1L),Food,liter,4.33,33.22,146.12,Europe
+55,Packaged Chips,Food,pack,71.82,19.5,107.71,South America
+56,LED Bulb,Electronics,piece,63.21,28.1,125.84,Asia
+57,Packaged Biscuits,Food,kg,54.49,15.17,87.89,Australia
+58,LED Bulb,Electronics,pack,69.09,17.14,156.09,North America
+59,Paper Cup,Packaging,pack,15.28,7.73,80.13,Europe
+60,T-shirt (Polyester),Clothing,liter,57.7,0.69,190.56,Africa
+61,Paper Cup,Packaging,kg,16.8,14.44,34.83,Asia
+62,T-shirt (Polyester),Clothing,liter,28.3,16.96,37.72,South America
+63,Milk (1L),Food,pack,0.6,8.89,77.2,South America
+64,Paper Cup,Packaging,km,72.67,0.28,158.53,Australia
+65,Milk (1L),Food,liter,60.36,38.83,110.1,North America
+66,Packaged Chips,Food,km,13.33,7.72,132.35,South America
+67,Packaged Juice,Food,kg,34.67,10.51,4.36,Africa
+68,Car Ride,Transport,km,34.36,14.28,11.8,Europe
+69,Laptop,Electronics,pack,4.93,16.38,115.83,North America
+70,Packaged Biscuits,Food,liter,34.83,8.99,31.78,Australia
+71,Packaged Chips,Food,liter,96.86,4.26,182.96,North America
+72,Shoes,Clothing,kg,26.34,33.32,92.09,Asia
+73,Flight (International),Transport,pack,27.62,49.58,15.06,Asia
+74,Meat (1kg),Food,liter,15.85,7.71,173.62,North America
+75,Aluminum Can,Packaging,kg,63.02,38.17,116.88,North America
+76,Jeans,Clothing,km,80.37,16.51,28.23,Africa
+77,Aluminum Can,Packaging,piece,49.4,30.77,7.84,Asia
+78,Meat (1kg),Food,pack,66.46,32.17,13.42,Asia
+79,Plastic Bottle,Packaging,km,82.09,13.63,123.27,Asia
+80,Smartphone,Electronics,km,72.7,2.29,4.44,South America
+81,Packaged Biscuits,Food,km,33.72,10.89,175.49,Europe
+82,Steel Straw,Reusable,km,71.73,39.16,164.1,North America
+83,Packaged Chips,Food,liter,10.76,12.47,115.56,North America
+84,T-shirt (Cotton),Clothing,piece,92.12,8.32,86.85,Africa
+85,Cotton Bag,Reusable,kg,95.29,8.93,98.47,Africa
+86,Aluminum Can,Packaging,km,94.23,47.16,34.9,Europe
+87,Smartphone,Electronics,liter,25.48,30.92,20.76,Asia
+88,LED Bulb,Electronics,km,32.21,4.83,16.38,Australia
+89,Electric Fan,Electronics,liter,86.06,29.51,77.27,North America
+90,Plastic Bottle,Packaging,pack,94.62,28.41,50.07,Australia
+91,Flight (Domestic),Transport,liter,9.74,8.68,197.89,South America
+92,Polyester Bag,Reusable,kg,17.62,37.14,35.58,North America
+93,Shoes,Clothing,liter,3.95,15.94,140.24,Africa
+94,Car Ride,Transport,liter,80.22,45.64,164.25,Australia
+95,Bike Ride,Transport,km,73.79,8.62,31.33,Africa
+96,Packaged Chips,Food,km,54.97,11.0,166.44,South America
+97,Packaged Juice,Food,kg,21.58,12.76,170.71,Australia
+98,Car Ride,Transport,liter,73.22,29.42,22.33,North America
+99,LED Bulb,Electronics,piece,68.26,12.94,46.62,Africa
+100,Flight (International),Transport,liter,48.06,4.5,163.06,Australia
+101,Polyester Bag,Reusable,piece,61.95,13.38,93.57,Asia
+102,Meat (1kg),Food,piece,11.49,19.93,51.55,North America
+103,Steel Straw,Reusable,liter,50.55,13.02,86.45,North America
+104,Bike Ride,Transport,km,60.99,49.01,177.51,Europe
+105,Paper Cup,Packaging,piece,44.43,30.32,153.08,South America
+106,Shoes,Clothing,km,25.02,38.76,160.35,Africa
+107,Flight (Domestic),Transport,pack,52.71,35.36,88.33,South America
+108,Car Ride,Transport,liter,36.13,14.86,151.61,Australia
+109,Packaged Chips,Food,pack,18.81,44.01,104.24,Europe
+110,T-shirt (Cotton),Clothing,piece,48.63,16.41,6.72,North America
+111,Glass Bottle,Packaging,kg,80.8,11.43,4.04,Australia
+112,LED Bulb,Electronics,km,75.96,11.04,171.66,South America
+113,T-shirt (Cotton),Clothing,pack,87.67,38.56,79.07,Australia
+114,Paper Cup,Packaging,piece,64.05,23.77,171.62,Africa
+115,Car Ride,Transport,kg,42.36,3.48,103.25,Africa
+116,Flight (International),Transport,liter,35.13,11.84,129.7,Africa
+117,Meat (1kg),Food,km,75.1,22.01,167.48,Australia
+118,Milk (1L),Food,piece,1.63,14.71,128.4,Africa
+119,Packaged Chips,Food,liter,2.64,24.19,4.5,South America
+120,LED Bulb,Electronics,km,62.77,28.3,27.3,Africa
+121,Shoes,Clothing,kg,93.76,44.91,130.9,Asia
+122,Glass Bottle,Packaging,liter,57.84,13.69,26.12,Asia
+123,Jeans,Clothing,liter,6.2,46.73,78.9,Africa
+124,Milk (1L),Food,pack,59.23,0.87,157.73,North America
+125,Glass Bottle,Packaging,kg,34.44,29.89,151.97,North America
+126,Bus Ride,Transport,piece,53.77,39.82,35.16,Europe
+127,Meat (1kg),Food,km,38.19,46.52,23.88,Europe
+128,Plastic Bottle,Packaging,pack,38.04,21.54,99.86,Europe
+129,Polyester Bag,Reusable,pack,15.29,28.53,80.58,Europe
+130,Aluminum Can,Packaging,piece,46.12,35.89,119.82,Europe
+131,Meat (1kg),Food,km,48.68,22.34,171.11,Africa
+132,Steel Straw,Reusable,liter,45.62,16.22,180.61,North America
+133,Bike Ride,Transport,kg,19.52,19.84,161.19,Australia
+134,Flight (International),Transport,liter,43.28,46.33,174.88,North America
+135,Meat (1kg),Food,kg,36.01,15.2,171.57,South America
+136,Laptop,Electronics,pack,89.84,30.18,140.15,North America
+137,Aluminum Can,Packaging,km,54.37,23.43,18.61,South America
+138,Car Ride,Transport,liter,80.74,8.5,118.09,Asia
+139,Flight (Domestic),Transport,liter,72.52,18.06,174.92,Europe
+140,Packaged Biscuits,Food,km,99.55,2.89,1.5,Europe
+141,Milk (1L),Food,liter,81.83,36.63,129.2,North America
+142,Electric Fan,Electronics,km,83.63,30.6,151.43,Europe
+143,Jeans,Clothing,liter,85.47,49.7,19.56,Europe
+144,Paper Cup,Packaging,piece,64.23,38.3,109.35,Australia
+145,LED Bulb,Electronics,km,42.77,42.66,133.67,Asia
+146,Bike Ride,Transport,kg,19.05,22.51,193.21,South America
+147,Flight (Domestic),Transport,km,15.59,25.08,174.83,South America
+148,Steel Straw,Reusable,km,81.39,46.9,19.18,Europe
+149,Smartphone,Electronics,pack,94.6,42.15,32.43,Australia
+150,Electric Fan,Electronics,piece,80.69,24.87,119.02,Australia
+151,Smartphone,Electronics,piece,36.18,11.94,9.64,South America
+152,Flight (Domestic),Transport,pack,29.91,41.39,22.31,Asia
+153,Bus Ride,Transport,piece,13.15,10.27,8.87,Australia
+154,LED Bulb,Electronics,piece,8.95,13.92,121.69,Australia
+155,Paper Cup,Packaging,km,19.83,42.15,87.75,Asia
+156,Milk (1L),Food,piece,81.39,23.48,71.08,North America
+157,Bus Ride,Transport,liter,6.27,31.31,152.41,Europe
+158,Cotton Bag,Reusable,kg,66.44,16.77,57.39,Asia
+159,Flight (Domestic),Transport,kg,39.4,42.42,132.12,North America
+160,Glass Bottle,Packaging,pack,85.61,17.89,193.61,South America
+161,Packaged Juice,Food,liter,16.03,47.29,121.68,South America
+162,Flight (International),Transport,pack,3.01,9.06,48.86,North America
+163,T-shirt (Cotton),Clothing,piece,99.91,13.37,128.72,Europe
+164,Milk (1L),Food,km,84.77,15.1,46.35,Asia
+165,Jeans,Clothing,piece,68.72,15.36,71.61,North America
+166,LED Bulb,Electronics,piece,35.93,41.91,7.54,Europe
+167,T-shirt (Polyester),Clothing,piece,31.03,42.8,167.16,North America
+168,LED Bulb,Electronics,km,65.63,21.87,27.14,South America
+169,Packaged Juice,Food,pack,51.74,0.14,95.86,Australia
+170,Electric Fan,Electronics,km,25.21,30.69,139.88,Asia
+171,T-shirt (Polyester),Clothing,kg,5.08,44.08,171.07,Australia
+172,Packaged Biscuits,Food,kg,19.74,8.54,8.88,Europe
+173,Electric Fan,Electronics,km,88.53,3.29,98.9,Asia
+174,Packaged Juice,Food,pack,60.89,10.0,180.93,Africa
+175,Car Ride,Transport,pack,79.08,35.91,38.27,Europe
+176,Bus Ride,Transport,km,86.22,33.68,197.43,North America
+177,Flight (Domestic),Transport,km,10.99,22.96,37.44,Europe
+178,Bike Ride,Transport,km,27.53,36.41,25.48,North America
+179,Cotton Bag,Reusable,piece,30.35,24.59,84.42,South America
+180,Smartphone,Electronics,liter,51.45,4.04,195.12,North America
+181,Smartphone,Electronics,piece,50.98,18.17,183.97,Europe
+182,Steel Straw,Reusable,piece,39.1,11.86,69.52,Asia
+183,LED Bulb,Electronics,kg,19.6,17.07,186.64,Africa
+184,Aluminum Can,Packaging,km,50.63,41.7,70.26,South America
+185,Cotton Bag,Reusable,kg,31.01,17.25,99.62,Africa
+186,Steel Straw,Reusable,liter,94.95,42.58,36.46,North America
+187,LED Bulb,Electronics,pack,50.32,8.07,114.44,Africa
+188,Jeans,Clothing,liter,28.31,9.23,109.81,Africa
+189,Polyester Bag,Reusable,pack,31.98,15.95,92.25,North America
+190,Polyester Bag,Reusable,piece,45.29,23.72,106.53,Africa
+191,Laptop,Electronics,liter,28.52,4.24,131.43,North America
+192,Paper Cup,Packaging,piece,18.95,24.51,81.94,Europe
+193,Aluminum Can,Packaging,liter,62.43,11.81,19.08,North America
+194,Milk (1L),Food,pack,23.99,10.82,143.38,Australia
+195,Electric Fan,Electronics,kg,51.11,32.59,169.5,North America
+196,Jeans,Clothing,pack,34.15,7.2,183.85,Australia
+197,Steel Straw,Reusable,liter,17.08,40.94,107.35,Africa
+198,Glass Bottle,Packaging,kg,8.03,39.23,21.52,South America
+199,Milk (1L),Food,piece,48.27,15.26,115.35,Australia
+200,Bike Ride,Transport,kg,8.96,37.81,158.45,Australia
+201,T-shirt (Polyester),Clothing,liter,94.16,13.04,57.55,North America
+202,Cotton Bag,Reusable,pack,9.07,0.18,15.58,North America
+203,Laptop,Electronics,pack,22.0,47.49,67.33,Asia
+204,Steel Straw,Reusable,liter,70.53,6.73,76.97,North America
+205,Plastic Bottle,Packaging,km,39.28,24.45,166.55,Europe
+206,Shoes,Clothing,liter,49.84,18.04,108.76,Australia
+207,T-shirt (Polyester),Clothing,pack,26.86,40.99,118.92,Asia
+208,Glass Bottle,Packaging,liter,12.44,17.7,56.63,South America
+209,Bus Ride,Transport,km,19.45,25.01,144.97,Africa
+210,Meat (1kg),Food,piece,68.37,43.88,32.57,Europe
+211,Shoes,Clothing,piece,13.09,10.94,161.49,South America
+212,Polyester Bag,Reusable,piece,19.76,4.84,179.58,South America
+213,T-shirt (Cotton),Clothing,liter,31.53,17.15,164.32,Europe
+214,Packaged Chips,Food,pack,16.03,46.43,198.83,Europe
+215,Meat (1kg),Food,piece,2.47,37.1,95.9,South America
+216,Bike Ride,Transport,pack,1.1,48.44,167.84,Europe
+217,Milk (1L),Food,pack,72.15,7.87,103.58,South America
+218,Steel Straw,Reusable,kg,0.74,13.75,24.29,Australia
+219,Electric Fan,Electronics,liter,11.75,7.66,79.05,North America
+220,LED Bulb,Electronics,liter,19.72,19.74,14.86,Africa
+221,Packaged Juice,Food,liter,91.23,19.56,55.85,Asia
+222,Plastic Bottle,Packaging,kg,70.66,10.47,154.94,Australia
+223,LED Bulb,Electronics,km,93.67,29.34,55.58,Africa
+224,Packaged Chips,Food,liter,2.33,1.48,140.85,North America
+225,Flight (Domestic),Transport,pack,36.0,48.48,8.98,South America
+226,LED Bulb,Electronics,pack,92.63,0.95,163.72,Europe
+227,Cotton Bag,Reusable,liter,49.25,33.22,90.91,Africa
+228,Laptop,Electronics,km,51.95,8.3,24.81,South America
+229,Packaged Juice,Food,kg,37.65,43.6,89.68,South America
+230,Paper Cup,Packaging,km,80.95,11.36,41.84,South America
+231,Car Ride,Transport,pack,89.22,0.3,101.88,Africa
+232,Smartphone,Electronics,km,9.63,10.46,193.62,Asia
+233,Laptop,Electronics,kg,7.87,37.12,65.43,Europe
+234,Smartphone,Electronics,pack,41.95,46.76,97.72,Asia
+235,Packaged Chips,Food,pack,15.88,32.23,153.2,Australia
+236,Flight (International),Transport,pack,54.52,1.36,53.74,Europe
+237,Packaged Biscuits,Food,km,93.95,4.83,141.33,Asia
+238,Shoes,Clothing,pack,83.84,23.01,75.04,North America
+239,Laptop,Electronics,pack,49.85,44.02,148.82,South America
+240,Milk (1L),Food,piece,36.97,10.69,76.55,Australia
+241,Packaged Juice,Food,kg,48.88,47.67,127.79,North America
+242,Car Ride,Transport,piece,87.22,6.64,124.38,Asia
+243,Packaged Juice,Food,kg,84.97,17.48,193.03,Europe
+244,Packaged Chips,Food,km,62.47,15.76,15.5,Asia
+245,Flight (International),Transport,kg,91.72,49.03,175.84,Africa
+246,Steel Straw,Reusable,liter,50.34,6.21,5.24,Africa
+247,Jeans,Clothing,kg,30.14,42.45,23.19,Australia
+248,Flight (Domestic),Transport,pack,89.28,22.81,170.45,South America
+249,Plastic Bottle,Packaging,km,51.94,43.66,26.57,Australia
+250,Polyester Bag,Reusable,pack,7.52,24.71,109.38,Europe
+251,Paper Cup,Packaging,kg,96.88,29.39,83.32,Asia
+252,Bus Ride,Transport,km,34.84,25.13,159.84,South America
+253,Flight (International),Transport,piece,29.26,34.41,142.7,Africa
+254,T-shirt (Polyester),Clothing,liter,81.47,29.14,140.37,Europe
+255,Packaged Biscuits,Food,liter,0.55,23.81,180.96,Asia
+256,Aluminum Can,Packaging,kg,92.53,25.42,28.08,Australia
+257,Smartphone,Electronics,pack,13.77,39.9,19.63,Australia
+258,Jeans,Clothing,pack,94.64,15.62,159.74,Asia
+259,Flight (Domestic),Transport,kg,2.06,28.91,10.3,Asia
+260,Cotton Bag,Reusable,kg,83.09,40.91,191.52,Europe
+261,Flight (Domestic),Transport,kg,90.06,28.1,98.92,Asia
+262,Packaged Chips,Food,km,73.05,27.79,43.84,North America
+263,Meat (1kg),Food,km,57.83,0.81,125.9,Africa
+264,Jeans,Clothing,liter,81.39,15.69,121.92,Africa
+265,Milk (1L),Food,km,16.14,21.88,73.0,Asia
+266,Polyester Bag,Reusable,km,81.2,10.55,189.46,Europe
+267,Aluminum Can,Packaging,kg,40.95,35.15,81.4,Africa
+268,LED Bulb,Electronics,liter,69.98,42.77,87.72,Australia
+269,Packaged Biscuits,Food,kg,89.42,9.71,76.92,North America
+270,Bike Ride,Transport,km,91.55,1.4,178.15,North America
+271,Polyester Bag,Reusable,liter,16.5,5.09,55.77,Europe
+272,Car Ride,Transport,piece,21.27,25.06,81.39,Australia
+273,Aluminum Can,Packaging,liter,30.15,14.8,37.79,Europe
+274,LED Bulb,Electronics,pack,76.49,15.59,67.24,Australia
+275,Milk (1L),Food,km,93.06,17.38,75.54,Asia
+276,Polyester Bag,Reusable,kg,22.37,19.66,93.7,Asia
+277,Plastic Bottle,Packaging,liter,40.05,45.96,186.33,Europe
+278,Glass Bottle,Packaging,kg,55.2,32.88,138.72,Australia
+279,Steel Straw,Reusable,km,46.08,47.65,97.89,North America
+280,Plastic Bottle,Packaging,piece,90.68,36.88,108.86,South America
+281,Cotton Bag,Reusable,pack,62.5,35.74,144.39,North America
+282,Jeans,Clothing,piece,71.73,23.0,87.97,Australia
+283,Shoes,Clothing,piece,38.99,41.09,118.68,Australia
+284,T-shirt (Polyester),Clothing,liter,77.42,5.47,143.21,Africa
+285,T-shirt (Cotton),Clothing,liter,10.63,5.6,106.41,Europe
+286,Paper Cup,Packaging,liter,99.85,43.15,173.91,South America
+287,Packaged Chips,Food,liter,35.24,8.41,163.9,Asia
+288,Aluminum Can,Packaging,liter,53.44,35.71,2.94,Africa
+289,Flight (Domestic),Transport,pack,17.44,34.27,121.39,Australia
+290,Flight (Domestic),Transport,pack,94.65,10.38,141.24,Europe
+291,Packaged Chips,Food,piece,19.28,16.79,165.81,South America
+292,Flight (International),Transport,pack,5.05,19.85,20.26,Africa
+293,Flight (International),Transport,km,36.06,18.58,66.92,Australia
+294,Cotton Bag,Reusable,pack,57.33,23.19,190.95,Africa
+295,Aluminum Can,Packaging,km,82.46,39.86,117.25,Africa
+296,Flight (International),Transport,kg,92.08,47.03,8.05,Australia
+297,Laptop,Electronics,liter,3.05,13.33,176.18,Asia
+298,Jeans,Clothing,km,83.8,8.87,88.73,North America
+299,Bike Ride,Transport,liter,47.62,11.29,57.49,Africa
+300,Packaged Biscuits,Food,km,86.56,25.81,26.32,Africa
+301,Polyester Bag,Reusable,kg,14.1,28.95,49.77,Europe
+302,Smartphone,Electronics,km,31.75,13.3,56.13,Europe
+303,Laptop,Electronics,km,85.12,6.2,13.06,Australia
+304,Glass Bottle,Packaging,kg,42.82,25.84,194.21,Australia
+305,Flight (Domestic),Transport,liter,75.75,34.79,143.03,South America
+306,Milk (1L),Food,pack,3.06,37.46,2.98,Africa
+307,Plastic Bottle,Packaging,piece,44.98,40.78,82.3,South America
+308,LED Bulb,Electronics,km,98.58,25.46,191.09,Europe
+309,Milk (1L),Food,kg,73.87,32.24,170.54,South America
+310,Packaged Biscuits,Food,km,75.31,9.13,29.74,Africa
+311,Car Ride,Transport,liter,24.28,6.4,166.73,North America
+312,Aluminum Can,Packaging,liter,31.27,27.68,140.23,Africa
+313,Shoes,Clothing,pack,47.84,13.25,2.95,South America
+314,Glass Bottle,Packaging,liter,34.28,9.5,73.42,South America
+315,Packaged Biscuits,Food,liter,53.87,24.3,137.38,Africa
+316,T-shirt (Polyester),Clothing,liter,7.54,48.12,117.11,Africa
+317,Electric Fan,Electronics,liter,49.58,27.93,107.3,Asia
+318,Glass Bottle,Packaging,kg,34.44,45.94,136.76,Europe
+319,Shoes,Clothing,km,90.65,43.03,115.94,Asia
+320,Laptop,Electronics,liter,5.36,7.38,78.63,Africa
+321,Paper Cup,Packaging,piece,46.45,22.9,7.49,South America
+322,Packaged Juice,Food,kg,25.29,35.03,122.57,South America
+323,Packaged Biscuits,Food,pack,29.63,25.26,164.29,North America
+324,Plastic Bottle,Packaging,kg,49.2,13.2,135.75,South America
+325,T-shirt (Polyester),Clothing,pack,14.56,10.95,119.02,North America
+326,Laptop,Electronics,piece,45.15,30.27,171.72,Australia
+327,Smartphone,Electronics,pack,18.07,3.5,192.2,Australia
+328,Flight (Domestic),Transport,pack,80.33,25.32,23.95,Asia
+329,Bus Ride,Transport,liter,14.64,44.08,135.08,Africa
+330,Aluminum Can,Packaging,piece,2.55,8.75,96.79,Europe
+331,Polyester Bag,Reusable,liter,92.12,7.13,43.72,North America
+332,Polyester Bag,Reusable,piece,28.72,2.82,120.38,South America
+333,Polyester Bag,Reusable,kg,69.89,43.87,110.28,South America
+334,Plastic Bottle,Packaging,kg,41.3,49.23,23.61,Asia
+335,Car Ride,Transport,pack,5.66,7.37,191.08,North America
+336,Paper Cup,Packaging,pack,66.57,2.46,196.68,North America
+337,Polyester Bag,Reusable,pack,86.31,10.33,151.29,North America
+338,T-shirt (Polyester),Clothing,km,90.41,40.84,68.17,South America
+339,Electric Fan,Electronics,liter,54.94,10.87,33.59,Africa
+340,T-shirt (Cotton),Clothing,piece,4.11,9.87,102.33,Europe
+341,Bus Ride,Transport,kg,20.64,47.34,34.57,Europe
+342,Meat (1kg),Food,km,65.74,19.4,11.04,Australia
+343,Paper Cup,Packaging,kg,35.17,0.22,90.6,Australia
+344,Plastic Bottle,Packaging,pack,3.89,14.15,18.66,Asia
+345,Packaged Juice,Food,pack,48.81,21.74,169.38,North America
+346,T-shirt (Polyester),Clothing,kg,30.69,14.81,143.83,Europe
+347,Plastic Bottle,Packaging,km,37.08,40.23,0.97,North America
+348,Plastic Bottle,Packaging,liter,38.91,32.22,117.92,South America
+349,Shoes,Clothing,piece,12.12,0.58,65.15,South America
+350,Laptop,Electronics,piece,48.74,24.28,98.49,North America
+351,Polyester Bag,Reusable,kg,12.7,8.75,180.23,Africa
+352,Jeans,Clothing,pack,74.87,48.15,32.98,South America
+353,Milk (1L),Food,km,62.85,43.75,113.81,North America
+354,Packaged Chips,Food,piece,58.4,7.53,161.1,Asia
+355,Flight (International),Transport,piece,6.12,8.81,186.45,Australia
+356,Electric Fan,Electronics,km,33.2,46.38,18.82,Africa
+357,Bike Ride,Transport,liter,60.29,21.1,74.11,North America
+358,Flight (International),Transport,pack,79.39,4.68,23.48,North America
+359,Packaged Juice,Food,km,82.51,2.15,65.37,Australia
+360,Milk (1L),Food,pack,0.56,41.75,87.34,Africa
+361,Cotton Bag,Reusable,liter,84.13,28.72,142.39,North America
+362,Cotton Bag,Reusable,km,63.56,13.99,125.27,South America
+363,Smartphone,Electronics,liter,78.03,41.98,170.28,South America
+364,Bike Ride,Transport,pack,93.53,12.02,143.23,Europe
+365,Packaged Biscuits,Food,piece,11.63,17.68,191.88,South America
+366,T-shirt (Cotton),Clothing,pack,71.21,26.79,77.83,Australia
+367,Polyester Bag,Reusable,liter,86.83,34.46,136.73,South America
+368,Car Ride,Transport,kg,97.97,49.91,8.74,South America
+369,T-shirt (Cotton),Clothing,kg,85.58,25.45,106.04,Africa
+370,Bus Ride,Transport,pack,86.94,48.65,160.38,South America
+371,Smartphone,Electronics,km,96.5,43.28,159.37,Asia
+372,Steel Straw,Reusable,km,80.5,16.45,81.22,South America
+373,T-shirt (Polyester),Clothing,kg,82.31,12.85,195.36,Asia
+374,Packaged Juice,Food,liter,39.2,23.14,127.07,North America
+375,LED Bulb,Electronics,piece,73.71,45.18,160.58,North America
+376,Meat (1kg),Food,piece,78.92,38.34,91.28,Australia
+377,Laptop,Electronics,kg,20.31,0.33,124.75,Asia
+378,Meat (1kg),Food,piece,45.77,8.16,7.33,Asia
+379,Flight (Domestic),Transport,km,20.81,32.82,62.7,Africa
+380,Packaged Juice,Food,kg,48.09,40.4,181.33,Europe
+381,Bike Ride,Transport,pack,89.75,21.45,159.81,Australia
+382,Packaged Chips,Food,piece,5.71,24.05,43.73,Asia
+383,Flight (Domestic),Transport,km,17.43,17.02,180.63,Asia
+384,Bike Ride,Transport,pack,16.63,41.39,65.87,North America
+385,Packaged Chips,Food,kg,46.51,46.68,43.79,Australia
+386,Glass Bottle,Packaging,km,88.55,0.47,120.08,Australia
+387,T-shirt (Cotton),Clothing,pack,45.88,2.19,2.07,North America
+388,Polyester Bag,Reusable,kg,35.48,22.68,117.36,Australia
+389,Plastic Bottle,Packaging,liter,11.38,9.61,152.3,North America
+390,Packaged Chips,Food,pack,7.79,36.0,2.62,Africa
+391,Car Ride,Transport,piece,21.27,45.64,161.68,Europe
+392,Bike Ride,Transport,liter,60.96,33.03,65.7,South America
+393,Flight (International),Transport,kg,24.26,8.22,171.59,Asia
+394,LED Bulb,Electronics,kg,89.64,23.61,187.88,South America
+395,Smartphone,Electronics,pack,40.9,9.93,41.4,Australia
+396,Steel Straw,Reusable,piece,1.47,5.69,143.45,Australia
+397,Steel Straw,Reusable,km,12.08,35.43,164.32,Europe
+398,Smartphone,Electronics,pack,71.41,42.41,81.93,Africa
+399,Jeans,Clothing,kg,98.16,41.73,162.87,Australia
+400,Car Ride,Transport,liter,82.67,47.34,55.82,Europe
+401,Glass Bottle,Packaging,kg,54.42,1.95,99.47,Asia
+402,Polyester Bag,Reusable,pack,68.98,32.27,111.3,Asia
+403,Steel Straw,Reusable,liter,80.79,0.89,95.15,South America
+404,Paper Cup,Packaging,kg,74.32,11.84,32.12,South America
+405,Packaged Juice,Food,km,20.58,46.74,33.35,North America
+406,Flight (International),Transport,piece,26.96,11.43,124.48,South America
+407,Milk (1L),Food,km,10.28,47.91,96.23,Asia
+408,Milk (1L),Food,km,24.92,39.22,23.32,Asia
+409,Flight (Domestic),Transport,km,77.56,43.86,12.45,Australia
+410,T-shirt (Polyester),Clothing,liter,79.93,40.61,104.49,Asia
+411,Milk (1L),Food,pack,58.71,6.72,130.31,Asia
+412,Paper Cup,Packaging,kg,32.53,17.64,5.47,Africa
+413,Shoes,Clothing,kg,48.44,14.09,3.76,South America
+414,Shoes,Clothing,piece,24.62,44.79,11.7,Australia
+415,Car Ride,Transport,kg,47.0,24.81,139.95,South America
+416,Packaged Juice,Food,kg,80.04,33.53,64.38,Africa
+417,Meat (1kg),Food,kg,22.47,24.62,72.58,South America
+418,Flight (Domestic),Transport,pack,53.69,33.56,177.01,South America
+419,Laptop,Electronics,liter,11.35,6.94,36.37,Africa
+420,Electric Fan,Electronics,km,91.18,27.8,186.39,North America
+421,Electric Fan,Electronics,pack,77.97,37.46,138.65,Africa
+422,Shoes,Clothing,liter,30.52,25.93,100.87,North America
+423,Car Ride,Transport,km,69.9,26.51,186.13,Europe
+424,Bike Ride,Transport,liter,34.22,35.68,181.94,Africa
+425,Aluminum Can,Packaging,pack,98.21,20.4,95.01,Europe
+426,T-shirt (Cotton),Clothing,kg,36.58,17.56,39.39,South America
+427,Packaged Juice,Food,km,80.57,4.57,133.7,South America
+428,Packaged Chips,Food,piece,82.14,41.85,133.07,Australia
+429,Cotton Bag,Reusable,pack,3.8,11.44,152.21,North America
+430,Milk (1L),Food,liter,14.61,17.79,52.21,North America
+431,T-shirt (Polyester),Clothing,pack,27.82,47.84,132.93,Europe
+432,T-shirt (Cotton),Clothing,piece,62.18,31.05,24.37,South America
+433,Packaged Chips,Food,km,91.02,6.75,63.91,South America
+434,Packaged Chips,Food,km,7.15,14.74,198.91,North America
+435,Aluminum Can,Packaging,kg,11.99,4.09,149.76,Europe
+436,Plastic Bottle,Packaging,km,98.75,7.25,164.31,South America
+437,Polyester Bag,Reusable,km,45.69,28.74,50.57,Asia
+438,Paper Cup,Packaging,kg,85.59,12.71,141.25,Asia
+439,Paper Cup,Packaging,kg,12.53,22.95,27.45,Africa
+440,Aluminum Can,Packaging,liter,19.8,44.74,53.15,Europe
+441,Aluminum Can,Packaging,km,11.96,27.16,18.94,Australia
+442,T-shirt (Cotton),Clothing,piece,2.0,39.05,158.02,North America
+443,Electric Fan,Electronics,pack,15.72,34.95,51.9,Australia
+444,Cotton Bag,Reusable,km,80.18,32.73,42.28,Europe
+445,LED Bulb,Electronics,kg,65.85,30.95,120.28,Asia
+446,Glass Bottle,Packaging,km,67.56,42.96,137.39,Australia
+447,Steel Straw,Reusable,liter,66.8,8.9,94.45,Asia
+448,Jeans,Clothing,kg,23.2,45.45,175.89,North America
+449,Aluminum Can,Packaging,liter,69.94,7.7,125.69,South America
+450,Electric Fan,Electronics,pack,2.57,13.69,97.5,South America
+451,Meat (1kg),Food,km,47.42,25.34,69.22,South America
+452,Meat (1kg),Food,piece,76.27,44.21,108.68,Africa
+453,Packaged Juice,Food,liter,57.48,37.96,41.67,North America
+454,Packaged Juice,Food,piece,64.23,17.92,191.0,Africa
+455,LED Bulb,Electronics,kg,51.87,4.45,180.9,Africa
+456,Packaged Juice,Food,kg,22.4,10.62,130.09,Europe
+457,Electric Fan,Electronics,kg,56.39,32.11,11.97,Asia
+458,Laptop,Electronics,piece,48.37,25.72,38.76,South America
+459,Meat (1kg),Food,km,92.27,44.51,152.03,Africa
+460,Steel Straw,Reusable,pack,13.32,48.58,98.06,Africa
+461,Cotton Bag,Reusable,km,5.88,23.09,18.41,Europe
+462,LED Bulb,Electronics,kg,71.83,17.89,29.33,Africa
+463,Plastic Bottle,Packaging,piece,9.21,6.08,113.12,Asia
+464,Smartphone,Electronics,pack,5.48,33.68,162.13,North America
+465,Jeans,Clothing,pack,51.21,41.0,133.36,North America
+466,Paper Cup,Packaging,liter,72.52,8.18,71.72,Africa
+467,Packaged Chips,Food,piece,17.55,30.03,139.29,North America
+468,Meat (1kg),Food,liter,61.03,42.34,164.15,North America
+469,Car Ride,Transport,kg,4.96,47.82,18.72,South America
+470,Meat (1kg),Food,kg,39.05,9.99,95.19,Australia
+471,Steel Straw,Reusable,kg,71.99,26.25,141.76,North America
+472,Shoes,Clothing,km,70.12,26.8,161.36,Australia
+473,T-shirt (Polyester),Clothing,km,91.53,1.77,50.21,Europe
+474,Car Ride,Transport,km,84.02,18.74,5.06,Australia
+475,Packaged Juice,Food,km,75.14,25.01,5.92,Africa
+476,Paper Cup,Packaging,liter,42.33,2.8,27.74,Europe
+477,T-shirt (Polyester),Clothing,piece,13.86,46.1,13.47,Australia
+478,Flight (International),Transport,km,11.15,4.74,192.08,Africa
+479,Laptop,Electronics,pack,20.49,21.47,73.79,Australia
+480,Plastic Bottle,Packaging,piece,66.6,10.6,107.29,Australia
+481,Milk (1L),Food,km,9.88,22.64,166.6,North America
+482,Flight (Domestic),Transport,pack,29.81,15.07,190.53,Asia
+483,Shoes,Clothing,liter,19.22,27.38,191.98,Africa
+484,Laptop,Electronics,kg,40.45,39.23,42.04,Europe
+485,Laptop,Electronics,kg,21.89,48.96,34.59,Europe
+486,Steel Straw,Reusable,km,71.11,42.23,169.36,Africa
+487,Car Ride,Transport,liter,25.69,29.95,122.67,Asia
+488,Car Ride,Transport,piece,25.44,3.16,20.36,North America
+489,Polyester Bag,Reusable,pack,4.02,49.49,174.87,Australia
+490,Car Ride,Transport,liter,55.09,0.81,62.16,Australia
+491,Car Ride,Transport,pack,77.56,48.33,190.87,Asia
+492,Car Ride,Transport,kg,28.27,6.16,82.42,South America
+493,T-shirt (Cotton),Clothing,piece,58.45,34.12,146.51,North America
+494,Bike Ride,Transport,liter,20.38,20.01,64.85,South America
+495,Jeans,Clothing,piece,29.49,34.42,173.27,Europe
+496,Steel Straw,Reusable,piece,83.38,42.97,93.03,Europe
+497,Laptop,Electronics,liter,88.48,28.77,153.35,Asia
+498,Packaged Juice,Food,km,72.8,15.48,141.55,Africa
+499,Cotton Bag,Reusable,kg,99.01,40.99,181.84,South America
+500,Shoes,Clothing,liter,63.93,21.58,11.66,North America
+501,Smartphone,Electronics,liter,74.8,7.49,135.87,Europe
+502,Laptop,Electronics,piece,26.27,2.81,26.76,Australia
+503,LED Bulb,Electronics,kg,21.01,33.03,97.94,Australia
+504,LED Bulb,Electronics,kg,28.26,13.36,30.59,Africa
+505,Shoes,Clothing,km,62.42,26.45,72.13,Australia
+506,Steel Straw,Reusable,km,79.37,40.5,11.63,Europe
+507,LED Bulb,Electronics,liter,67.02,33.88,42.64,Asia
+508,Meat (1kg),Food,km,74.59,49.01,130.73,Asia
+509,Packaged Biscuits,Food,liter,34.31,19.23,114.37,North America
+510,Steel Straw,Reusable,km,55.7,24.43,183.51,Africa
+511,Cotton Bag,Reusable,km,63.34,8.17,185.32,South America
+512,T-shirt (Polyester),Clothing,km,19.06,18.44,193.46,Asia
+513,LED Bulb,Electronics,liter,39.13,5.18,47.01,Australia
+514,Paper Cup,Packaging,km,95.72,13.27,188.08,Europe
+515,LED Bulb,Electronics,km,95.45,8.01,81.5,Africa
+516,Shoes,Clothing,kg,53.54,48.69,22.43,Asia
+517,Milk (1L),Food,pack,37.61,10.99,153.01,Africa
+518,Aluminum Can,Packaging,pack,37.18,29.47,55.65,Europe
+519,T-shirt (Cotton),Clothing,pack,34.12,9.37,22.91,Asia
+520,Car Ride,Transport,liter,58.55,31.65,155.95,Europe
+521,Bus Ride,Transport,km,85.22,23.43,155.83,Africa
+522,Packaged Chips,Food,piece,23.0,41.14,38.75,Australia
+523,Smartphone,Electronics,liter,69.24,10.01,39.89,Australia
+524,Polyester Bag,Reusable,liter,50.92,49.16,131.6,North America
+525,LED Bulb,Electronics,liter,84.4,46.52,51.98,Asia
+526,Shoes,Clothing,kg,1.25,44.93,133.09,Africa
+527,Cotton Bag,Reusable,pack,58.48,40.27,10.68,Africa
+528,Jeans,Clothing,liter,84.76,49.61,73.91,Australia
+529,Paper Cup,Packaging,kg,31.19,20.05,135.36,South America
+530,Steel Straw,Reusable,piece,56.84,39.23,18.07,Europe
+531,Flight (Domestic),Transport,pack,5.12,9.97,2.5,Asia
+532,Paper Cup,Packaging,pack,33.79,4.32,115.25,Australia
+533,Smartphone,Electronics,pack,54.35,0.78,92.1,South America
+534,Electric Fan,Electronics,kg,93.11,23.54,167.3,Europe
+535,Flight (International),Transport,piece,66.84,2.26,46.56,Asia
+536,Paper Cup,Packaging,piece,8.56,43.87,135.12,Asia
+537,Packaged Juice,Food,liter,9.92,27.16,143.69,North America
+538,Packaged Chips,Food,km,67.06,49.58,52.2,Europe
+539,T-shirt (Polyester),Clothing,pack,38.55,29.31,123.72,Australia
+540,Cotton Bag,Reusable,kg,38.73,28.24,72.02,South America
+541,Packaged Juice,Food,km,87.07,6.49,83.24,Africa
+542,Meat (1kg),Food,km,59.42,26.25,167.6,Europe
+543,Packaged Chips,Food,pack,30.83,8.44,133.65,South America
+544,Smartphone,Electronics,kg,22.81,44.12,197.0,Australia
+545,Bike Ride,Transport,piece,11.15,26.15,68.29,Africa
+546,Smartphone,Electronics,liter,99.79,33.36,80.57,North America
+547,Meat (1kg),Food,pack,75.58,36.66,67.6,South America
+548,Smartphone,Electronics,km,81.19,7.1,121.12,Asia
+549,LED Bulb,Electronics,km,43.13,7.39,24.35,Europe
+550,Car Ride,Transport,km,80.41,28.12,6.09,Asia
